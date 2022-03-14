@@ -1,0 +1,29 @@
+{
+    "Properties": [
+        {
+            "Name": "Emission Section_Path",
+            "DisplayName": "Effects",
+            "Tooltip": ""
+        },
+        {
+            "Name": "Emission Section",
+            "DisplayName": "Emission",
+            "Tooltip": "Emission options"
+        },
+        {
+            "Name": "Emission Map",
+            "DisplayName": "Emission Map",
+            "Tooltip": ""
+        },
+        {
+            "Name": "Emission Map_UV",
+            "DisplayName": "Emission Map_UV",
+            "Tooltip": ""
+        },
+        {
+            "Name": "LightmapEmission",
+            "DisplayName": "LightmapEmission",
+            "Tooltip": ""
+        }
+    ]
+}

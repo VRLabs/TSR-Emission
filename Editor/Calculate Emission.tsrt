@@ -1,0 +1,6 @@
+void CalculateEmission()
+{
+    #if defined (UNITY_PASS_FORWARDBASE)
+        Emission = (UNITY_SAMPLE_TEX2D_SAMPLER(_EmissionMap, _MainTex, TSR_TRANSFORM_TEX(Uvs, _EmissionMap)) * _EmissionColor).rgb;
+    #endif
+}

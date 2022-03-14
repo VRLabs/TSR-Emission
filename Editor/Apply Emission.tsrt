@@ -1,0 +1,6 @@
+void ApplyEmission()
+{
+    #if defined (UNITY_PASS_FORWARDBASE)
+        FinalColor.rgb += Emission;
+    #endif
+}
