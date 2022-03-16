@@ -86,10 +86,10 @@ MonoBehaviour:
       CustomType: 
     VariableKeywords: []
     CodeKeywords: []
-  - Name: CalculateEmission
+  - Name: CalculateMetaEmission
     AppendAfter: '#K#META_FRAGMENT_FUNCTION'
     Queue: 90
-    ShaderFunctionCode: {fileID: -544282384758852595, guid: a27b6877131e80442b4a6783c1de978c,
+    ShaderFunctionCode: {fileID: -544282384758852595, guid: 40c191ac5f3f6884ebab282905401b19,
       type: 3}
     UsedVariables:
     - Name: _EmissionMap
