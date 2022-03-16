@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Id: VRLabs.TSR.Emission
   Name: Emission
-  Version: 1.0
+  Version: master
   Author: VRLabs
   Description: Emission Settings for Toony Standard RE:Build
   EnableProperties:
